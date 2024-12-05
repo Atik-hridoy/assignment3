@@ -48,8 +48,9 @@ A simple weather application built with Flutter that allows users to check the c
     ```
 
 ## Screenshot
+![Screenshot 2024-12-05 151334](https://github.com/user-attachments/assets/67df8055-e717-452a-a3cc-954fc21d9477)
 
-![Weather App Screenshot](assets/images/screenshot.png)
+
 
 ## Contributing
 
